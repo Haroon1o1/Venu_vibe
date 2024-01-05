@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550598795585",
+    "project_id": "sherry-ac0d2",
+    "storage_bucket": "sherry-ac0d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550598795585:android:e5c96c20ade107ad9281c0",
+        "android_client_info": {
+          "package_name": "com.example.random"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHnaLpa6G0bCWepID-TmNIST1xJFVPfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550598795585:android:c1ccbcc77bc9523f9281c0",
+        "android_client_info": {
+          "package_name": "com.example.vessel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYHnaLpa6G0bCWepID-TmNIST1xJFVPfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
